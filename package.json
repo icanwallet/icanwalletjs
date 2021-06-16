@@ -1,0 +1,61 @@
+{
+  "name": "iwjs",
+  "version": "1.0.0",
+  "description": "crypto wallets",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/icanwallet/icanwalletjs.git"
+  },
+  "keywords": [
+    "crypto",
+    "icanwallet"
+  ],
+  "author": "icanwallet",
+  "license": "ISC",
+  "dependencies": {
+	"iwcrypto": "^1.1.0",
+    "iw-ada": "^1.0.3",
+    "iw-ae": "^1.0.0",
+    "iw-algo": "^1.0.1",
+    "iw-ark": "^1.0.2",
+    "iw-atom": "^1.0.0",
+    "iw-bnb": "^1.0.0",
+    "iw-bsv": "^1.0.0",
+    "iw-btc": "^1.0.5",
+    "iw-bts": "^1.0.0",
+    "iw-ckb": "^1.0.0",
+    "iw-dot": "^1.0.0",
+    "iw-elf": "^1.0.0",
+    "iw-eos": "^1.0.1",
+    "iw-eth": "^1.0.5",
+    "iw-fil": "^1.0.0",
+    "iw-icx": "^1.0.0",
+    "iw-iost": "^1.0.1",
+    "iw-iota": "^1.0.0",
+    "iw-iris": "^1.0.0",
+    "iw-lat": "^1.0.1",
+    "iw-lsk": "^1.0.0",
+    "iw-nas": "^1.0.0",
+    "iw-neo": "^1.0.0",
+    "iw-nkn": "^1.0.0",
+    "iw-nuls": "^1.0.0",
+    "iw-ont": "^1.0.0",
+    "iw-sol": "^1.0.0",
+    "iw-swtc": "^1.0.1",
+    "iw-trx": "^1.0.2",
+    "iw-waves": "^1.0.1",
+    "iw-xlm": "^1.0.1",
+    "iw-xrp": "^1.0.1",
+    "iw-xtz": "^1.0.0",
+    "iw-zil": "^1.0.1",
+    "iwcoins": "^1.0.0"
+  },
+  "bugs": {
+    "url": "https://github.com/icanwallet/icanwalletjs/issues"
+  },
+  "homepage": "https://github.com/icanwallet/icanwalletjs#readme"
+}
